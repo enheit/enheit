@@ -11,6 +11,7 @@ A collection of "My Lovely" (ml*) plugins for Neovim, each designed to improve y
 - **[mlts](https://github.com/enheit/mlts)** - My Lovely Theme Selector: Interactive theme browser with live preview and persistent selection
 - **[mlwf](https://github.com/enheit/mlwf)** - My Lovely Word Finder: Fast, live text search across your entire project with syntax highlighting
 - **[mlfs](https://github.com/enheit/mlfs)** - My Lovely File Selector: Fuzzy file finder with smart filtering and beautiful highlighting
+- **[mlau](https://github.com/enheit/mlau)** - My Lovely Autocomplete: Lightweight native completion plugin with LSP integration and function signatures
 
 ## Animation Libraries
 
